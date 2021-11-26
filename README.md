@@ -1,2 +1,12 @@
-# danish-wordlists
-Collection of danish wordlists for cracking danish passwords
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+# Danish wordlists
+## Collection of danish wordlists for cracking danish passwords
+
+Filename  | Description | Source
+------------- | ------------- | -------------
+dawiki-2021-11-25.txt  | Words sourced from the danish language Wikipedia  | https://dumps.wikimedia.org/dawiki/20211120/
+gamle_testamente.txt  | Words sourced from The Old Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
+ny_testamente.txt  |  Words sourced from The New Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
+supplerendebynavne.txt  |  Collection of 'supplementary city names' sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/supplerendebynavne?format=csv
+vejnavne.txt  |  Collection of street names sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/vejstykker?format=csv
