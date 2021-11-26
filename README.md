@@ -13,3 +13,4 @@ vejnavne.txt  |  Collection of street names sourced from The Danish Agency for D
 first_names_female_2021.txt  |  List of approved female danish first names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
 first_names_male_2021.txt  |  List of approved male danish first names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
 last_names_2021.txt  |  List of approved danish last names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
+ddo_fullforms.txt  |  This wordlist comprises inflected forms of the headwords of The Danish Dictionary. Based on ddo_fullforms_2020-08-26.csv |  https://korpus.dsl.dk/resources/details/ddo-fullforms.html
