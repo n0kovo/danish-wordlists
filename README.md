@@ -3,7 +3,7 @@
 # Danish wordlists
 ## Collection of danish wordlists for cracking danish passwords
 
-Filename  | Word count | Description | Source
+Filename  | Words | Description | Source
 ------------- | ------------- | ------------- | -------------
 dawiki-2021-11-25.txt  |  2600745  |  Words sourced from the danish language Wikipedia  | https://dumps.wikimedia.org/dawiki/20211120/
 gamle_testamente.txt   |  21937  |  Words sourced from The Old Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
