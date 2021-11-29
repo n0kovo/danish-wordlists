@@ -6,10 +6,10 @@
 Filename  | Lines | Description | Source
 ------------- | ------------- | ------------- | -------------
 dawiki-2021-11-25.txt  |  2600745  |  Words sourced from the danish language Wikipedia  | https://dumps.wikimedia.org/dawiki/20211120/
-gamle_testamente.txt   |  21937  |  Words sourced from The Old Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
-ny_testamente.txt  |  9343  |  Words sourced from The New Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
-supplerendebynavne.txt  |  6542  |  Collection of 'supplementary city names' sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/supplerendebynavne?format=csv
-vejnavne.txt  |  111911  |  Collection of street names sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/vejstykker?format=csv
+old_testament.txt   |  21937  |  Words sourced from The Old Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
+new_testament.txt  |  9343  |  Words sourced from The New Testament in Danish  |  https://www.gutenberg.org/cache/epub/2143/pg2143.txt
+supplementary_city_names.txt  |  6542  |  Collection of 'supplementary city names' sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/supplerendebynavne?format=csv
+street_names.txt  |  111911  |  Collection of street names sourced from The Danish Agency for Data Supply and Efficiency  |  https://api.dataforsyningen.dk/vejstykker?format=csv
 first_names_female_2021.txt  |  80003  |  List of approved female danish first names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
 first_names_male_2021.txt  |  62442  |  List of approved male danish first names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
 last_names_2021.txt  |  297222  |   List of approved danish last names (2021) sourced from the danish Civil Registration System by Statistics Denmark |  https://www.dst.dk/da/Statistik/emner/borgere/navne
