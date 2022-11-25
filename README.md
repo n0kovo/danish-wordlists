@@ -2,7 +2,8 @@
 
 # Danish wordlists
 ## Collection of danish wordlists for cracking danish passwords
-(See also [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) for generating wordlists of Danish phone numbers by geographical area and/or usage (landline, mobile, services etc.).
+(See also [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) for generating wordlists of Danish phone numbers by geographical area and/or usage (landline, mobile, services etc.).<br>
+Follow me on Mastodon: [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo)
 
 Filename  | Lines | Description | Source
 ------------- | ------------- | ------------- | -------------
